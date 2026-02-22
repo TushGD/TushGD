@@ -1,16 +1,37 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/devtushar101" width="120" style="border-radius: 50%;" alt="Tushar Dhongade"/>
+</div>
 
-<!--
-**TushGD/TushGD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Tushar Dhongade 👋
 
-Here are some ideas to get you started:
+**Full Stack Developer · MCA Student · Pune, India**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build clean, functional web applications and care deeply about good user experience. Currently pursuing my Master's in Computer Applications at DYPIMED, Pune.
+
+---
+
+## 🛠 Tech Stack
+
+**Languages** — Python, JavaScript, Java, PHP, C/C++, SQL, HTML/CSS  
+**Frontend** — ReactJS, jQuery  
+**Backend** — NodeJS  
+**Databases** — MySQL, MongoDB  
+**Design** — Figma, Sketch, Wireframing  
+**Tools** — Git, GitHub, Docker
+
+---
+
+## 🎓 Education
+
+**MCA** — DYPIMED, Pune *(2024 – 2026, Pursuing)*  
+**BCA** — Sant Gadge Baba Amravati University *(2021 – 2024 | 64.54%)*
+
+---
+
+## 📫 Let's Connect
+
+I'm open to **internship and entry-level opportunities** in Full Stack or Frontend Development.
+
+- 📧 [devtushar101@gmail.com](mailto:devtushar101@gmail.com)
+- 📞 +91-8080881728
+- 📍 Talegaon Dabhade, Pune, Maharashtra
