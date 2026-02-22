@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://avatars.githubusercontent.com/devtushar101](https://github.com/TushGD/TushGD/blob/main/profile.png)" width="120" heigh="120" style="border-radius: 50%;" alt="Tushar Dhongade"/>
+  <img src="https://github.com/TushGD/TushGD/blob/main/profile.png" width="120" heigh="120" style="border-radius: 50%;" alt="Tushar Dhongade"/>
 </div>
 
 # Hi, I'm Tushar Dhongade 👋
