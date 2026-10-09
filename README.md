@@ -73,7 +73,7 @@
 
 | Degree | Institution | Duration | Status |
 | :--- | :--- | :---: | :---: |
-| **MCA** | DYPIMED, Pune | 2024 – 2026 | Pursuing |
+| **MCA** | DYPIMED, Pune | 2024 – 2026 | 7.47 CGPA |
 | **BCA** | Sant Gadge Baba Amravati University | 2021 – 2024 | 64.54% |
 
 ---
