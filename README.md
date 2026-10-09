@@ -4,7 +4,7 @@
 
 # Hi, I'm Tushar Dhongade 👋
 
-### Full Stack Developer · MCA Student · Pune, India
+### Full Stack Developer · Pune, India
 
 *I build clean, functional web applications and care deeply about good user experience.*
 
