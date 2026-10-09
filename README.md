@@ -78,24 +78,7 @@
 
 ---
 
-<!--
-## 🚀 Featured Projects
 
-| Project | Description | Tech |
-| :--- | :--- | :--- |
-| [Project Name](https://github.com/TushGD/repo) | One-line description | React · Node.js · MongoDB |
--->
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=TushGD&show_icons=true&theme=default&hide_border=true" height="170" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TushGD&layout=compact&theme=default&hide_border=true" height="170" alt="Top languages"/>
-
-</div>
-
----
 
 ## 📫 Let's Connect
 
